@@ -1,8 +1,10 @@
-﻿Install Node.js
+﻿
+Install VSCode, VSCode Python Extension, Anaconda Python, Node.js
 
-Run these commands in the terminal (Terminal > New Terminal)
+Open a Terminal In VSCode and run these commands (Terminal > New Terminal)
+conda install flask
 npm install
 npm audit fix
 npm run-script build
 
-run server.py as a python file
+Right click on the server.py as a python file
